@@ -5,7 +5,7 @@ The visualizations and dashboard created supports the findings in the form of ke
 
 ✅Analysing the loan amount states based on every year.
 ✅Grade and sub grade wise revol_bal.
-✅Looking into the total paymnet amount with respect to the verification status.
+✅Looking into the total payment amount with respect to the verification status.
 ✅Checking the loan status for every year and month.
 ✅Understanding the last payment date stats based on the home ownership.
 
