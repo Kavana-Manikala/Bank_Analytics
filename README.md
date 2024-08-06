@@ -2,6 +2,7 @@
 In the Bank loan of Customers analysis the main focus is to identify factors influencing loan repayment and defaults, and enhance decision-making in loan approvals.
 
 The visualizations and dashboard created supports the findings in the form of key insights and different KPIs like:
+
 ✅Analysing the loan amount states based on every year.
 ✅Grade and sub grade wise revol_bal.
 ✅Looking into the total paymnet amount with respect to the verification status.
@@ -9,6 +10,7 @@ The visualizations and dashboard created supports the findings in the form of ke
 ✅Understanding the last payment date stats based on the home ownership.
 
 📈 Key Findings of the analysis:
+
 ✔️Borrower Behavior: Strong correlation between employment length, credit history, and repayment success.
 ✔️Risk Factors: High debt-to-income ratios and frequent past delinquencies are major predictors of loan default.
 
