@@ -13,8 +13,7 @@ The visualizations and dashboard created supports the findings in the form of ke
 ✔️Risk Factors: High debt-to-income ratios and frequent past delinquencies are major predictors of loan default.
 
 📌 Recommendations:
+
 Risk Assessment:- Incorporate identified risk factors into loan approval processes.
-
 Monitoring:- Enhance monitoring of high-risk borrowers to prevent defaults.
-
 Data Utilization:- Use continuous data analysis to refine and improve loan policies.
